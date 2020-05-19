@@ -58,6 +58,12 @@ landscape:
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/alibaba'
           - item:
+            name: Allegro Trains
+            homepage_url: 'https://allegro.ai/trains-open-source/'
+            repo_url: 'https://github.com/allegroai/trains'
+            logo: trains.svg
+            crunchbase: 'https://www.crunchbase.com/organization/allegro-ai'
+           - item:
             name: Angel-ML
             homepage_url: 'https://github.com/Angel-ML/angel'
             project: graduated
@@ -1234,12 +1240,6 @@ landscape:
             logo: prefect.svg
             twitter: 'https://twitter.com/ApacheAirflow'
             crunchbase: 'https://www.crunchbase.com/organization/prefect-technologies-inc'
-          - item:
-            name: TRAINS
-            homepage_url: 'https://github.com/allegroai/trains'
-            repo_url: 'https://github.com/allegroai/trains'
-            logo: trains.svg
-            crunchbase: 'https://www.crunchbase.com/organization/allegro-ai'
           - item:
             name: Volcano
             homepage_url: 'https://github.com/volcano-sh/volcano'
